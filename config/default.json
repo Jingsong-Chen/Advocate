@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Jingsong-Chen:jingsongchen123@merntutorial.iboqg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "35e2d94fb7fd0a408c5a",
+    "githubSecret": "5d896730accc60dbf19326d5ecbf20bf87ccd8cc"
+}
